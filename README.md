@@ -1,4 +1,4 @@
-# CryptoLAB1
+# CryptoLAB1: Authentication protocols (PAP, CHAP, S/Key)
 
 1. Password Access Protocol(PAP).
 2. Challenge-Handshake Authentication Protocol (CHAP).
